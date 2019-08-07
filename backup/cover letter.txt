@@ -1,0 +1,238 @@
+I'm Babak Zarrinbal 35 yearsold/married/father of one 
+Located in Tehran/Iran (open for Relocation)
+i've been working for about  12 years now 
+5-6 years as project planner/controller and manager
+6-7 years as fullstack programmer
+main frameworks includes : 
+    Nodejs(4 years) 
+    Laravel(5 years) 
+    Vuejs(4 years) 
+    Angular(3 years) 
+    Angularjs(7 years) 
+    Drupal(in the past) 
+    (More details below)
+
+Aboutme:
+    I believe in self-learning teams and growing , and i've been part of wonderfull teams since now,
+    I always tried to think out of the box and see the big picture, and encourage my coworker to do so,
+    cause i belive main goal of every project will get lost eventually if we don't keep track of its targets.
+    the thing that i love about myself is I'm fast and I have above normal IQ , i tend to work as 2 or 3 
+    personel every where i've been and i developed strategies to keep myself aligned with the team so i don't
+    break it's harmony,
+    I like the opertunity to be challenged and get improved, and be part of something big.I have experinces
+    in managemnet and project controll but I rather be part of the team then it's leader.
+
+    In Summery I'm smart and a great teamworker.and I Learn what is needed by myself.
+
+My Experience :
+    Nodejs: 
+        express,            (static and dynamic routing basedon files and schemas)
+        passport,           (socialmedia, local, oauth,...)
+        mongoose,           (models and functions and mongodb aggregate)
+        socket.io,          (direct websocket or authenticated sockets)
+        async,              (inmemeory queue system and limitations)
+        gulp,               (front and back automations)
+        pug,                (layout rendering and gulp integrations)
+        winston,            (local and remote logging with notification)
+        paypal,             (integrate payment method)
+        stripe,             (integrate payment method)
+        cron,               (mainly daily tasks for cleanups and archeiving)
+        Databases:
+            mongodb,
+            mysql,
+            redis,
+            inmemory,
+            tangus
+
+    laravel:
+        api-web routes          (deep usage and customization of middlewares )
+        middlewares             (deep customizations)
+        Eloquent                (used in complicated situations with relations and custom pivot tables)
+        Auth                    (deep modification and even created new gaurds )
+        laravel-mix             (used it to it's full potentials)
+        configs                 (deep modifications)
+        Storage                 (filesystem , ftp)
+        queue system            (with mysql , redis, async )
+        events                  (initalize and customizations)
+        service-providers       (used and modified alot of them)
+        laravel-echo            (bridge between laravel and socket.io initalization and useage)
+        Imageic                 (modified images with it's service providers)
+        FFmpeg                  ( integrated it for manuplating video files)
+        MQTT                    (for loadbalancing purposes)
+        Databases:              (integration to laravel)
+            mysql,
+            sqlserver,
+            mongodb   
+
+    nginx ...
+    drupal 7.x:( too long ago)
+        views,
+        Token,
+        pathauto,
+        webform,
+        entity api,
+        Administration menu,
+        catchpa,
+        Date,
+        IMCE,
+        WYSIWYG
+        CKEditor,
+        jQuery Update
+        Link
+        Databases:
+            mysql,
+            posgres
+    ---------------------------------------
+    Vuejs:
+        cli,component lif-cycle,routes,lazyloading,transitions,computed,watch,events,props,vuex
+    Angularjs:
+        ui-router, lazyloading, Factory, services, gulp integration, watches, directives, ng-animations
+        ...
+
+    Angular:
+        cli, routes, lazyloading, child modules, components, watch, animations, events
+
+
+    DOM:
+        webrtc
+        getmedia
+        sensors
+        localstorag
+
+    stylesheet:
+        animations,
+        transitions,
+        calculations,
+        SASS functionalities
+        LESS functionalities
+
+    JQUERY: 
+        animations
+        shadow DOM
+        DOM manipulation
+
+    Bootstrap:
+        grids
+        forminputs
+        btn
+
+
+Projects:
+    diliviri-> Nodejs,angularjs
+    platform for ordering diffrent type of product (food, flower, booz,...);
+    landing page for ordering
+    merchant panel for each merchant
+    admin panel
+    order registration proccess by user, merchant, admin
+    driver management (hired drivers, outsource drivers)
+    notifications for users, merchant, drivers, admins
+    supervising drivers and orders
+    auto assignment of orders to drivers
+    auto multi order assignment to drivers base on limitations (time, type of vehicles,...)
+    best route calculation and complicated assignment methods
+    vehicle management (company vehicle, outsource vehicles)
+    orders live tracking
+    orders heatmaps
+    
+
+
+    driver.diliviri-> Nodejs,VueJs
+        wpa app with native wrapper for driver app
+        location tracking
+        performance registering
+        single base code for all platforms
+
+    supervisor.diliviri-> Nodejs,VueJs
+        wpa app for driver supervisors
+        online driver supervising (socket)
+        notification on events
+        on map live tracking
+        order supervising
+
+    suadmin.diliviri-> Nodejs,VueJs
+        wpa app customized for top level managemnet
+        order status
+
+    easybimeh front->Angular 5.x
+        platform for registering insurance representetives
+        custom landing page for each one (auto generate)
+        admin panel (insurance info, vouchers ,...)
+        merchant panel for each representetive
+
+    routexl-client ->Nodejs
+        client for using routexl routing services
+        multi account usage for routing and distance apis
+        proxy-enabled requests
+
+    viseo-panel->Laravel
+        upload edit video/audio
+        content managment system
+        usermanagement system
+        api managment system
+
+    viseo-api->laravel
+        simple fast login guard
+        redis pub-sub for clustering
+        mongodb integration
+        mqtt message broker integration
+
+    viseo-landing->Laravel
+        content display
+        notifiactions
+
+    wow ->laravel-vue
+        online quize
+        badge and graph for quize results
+        quize improvement techniques
+        online certificate generator
+        online essey checking
+        teacher student communication platform
+        server rendering of vue app
+
+    review ->laravel-vue
+        uploading video
+        extracting audio from videos 
+        creating subtitle from audio
+        translating subtitles
+        online subtitle and translation edit
+        online video edit 
+        adding comments to videos
+        video project analysing and reviewing procedures
+
+    kahtbekhat ->laravel-vue
+        uploading books (admin/teachers pdf/image/ppt)
+        extracting book pages 
+        adding video/audio/text/image  overlay to pages
+        reviewing by reviewer
+        approving by experts
+        getting available to student and teachers
+
+    faststartup ->laravel-vue
+        adding template(html/css) or page link to get as template
+        online page content edit (texts/links/images/videos,...)
+        save as static page and catch for superfast get
+        addable to every laravel project
+
+    crawlers ->nodejs
+        crawling youtube for videos and download
+        crawling movie sites for download
+        crawling pages for extracting templates
+        crawling review sites for media informations
+
+    apanajh-> angularjs
+        fast angularjs front for apanajh socialmedia 
+        content listing 
+        like/comment/wallet ,...
+
+    fata -> drupal-angularjs
+        cyberpolice.ir site 
+        create diffrent survays for users and personels
+        complicated ui annimations svg/gifs and draw on canvas
+
+    trustwatches -> drupal
+        online shop 
+
+    emamsadegh -> drupal
+        official site for emam sadegh university
+
+    multiple goverment official sites to broadcast news and informations
