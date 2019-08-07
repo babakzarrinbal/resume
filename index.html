@@ -5,11 +5,11 @@
         console.log(document.getElementById("frame").src);
         var frame = document.getElementById("frame");
         var btn = document.getElementById("btn");
-        if (frame.src.match(/.*coverletter.*/)) {
+        if (frame.src.match(/.*Coverletter.*/)) {
           frame.src = "./resume.pdf";
           btn.innerHTML = "Coverletter";
         } else {
-          frame.src = "./coverletter.pdf";
+          frame.src = "./Coverletter.pdf";
           btn.innerHTML = "Resume";
         }
       };
