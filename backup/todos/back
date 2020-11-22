@@ -1,0 +1,100 @@
+Nodejs: since 2018/10
+    express,
+    passport,
+    mongoose,
+    socket.io,
+    async,
+    gulp,
+    pug,
+    winston,
+    paypal,
+    cron,
+    ...
+
+    Projects:
+        diliviri: admin/merchant/protal
+        driver.diliviri
+        supervisor.dilivir
+        shipment.diliviri
+        RoutexlClient
+        bz-html2blade
+        bz-filemethod-api
+        bz-nedb
+        crawlers
+        zmovies
+
+
+laravel :since 2017/11
+    api-web routes          (deep usage and customization of middlewares )
+    middlewares             (deep customizations)
+    Eloquent                (used in complicated situations with relations and custom pivot tables)
+    Auth                    (deep modification and even created new gaurds )
+    laravel-mix             (used it to it's full potentials)
+    configs                 (deep modifications)
+    Storage                 (filesystem , ftp)
+    queue system            (with mysql , redis, async )
+    events                  (initalize and customizations)
+    service-providers       (used and modified alot of them)
+    laravel-echo            (bridge between laravel and socket.io initalization and useage)
+    Imageic                 (modified images with it's service providers)
+    FFmpeg                  ( integrated it for manuplating video files)
+    Databases:              (integration to laravel)
+        mysql,
+        sqlserver,
+        mongodb   
+
+    projects:
+        khatbekhat,
+        ershad quran exam
+        review
+        wow
+        faststartup
+        mathtype
+        zmovies
+        zschools
+        viseo-panel
+        viseo-api
+        viseo-landing
+        visit24
+
+
+drupal 7.x:( too long ago)
+    views,
+    Token,
+    pathauto,
+    webform,
+    entity api,
+    Administration menu,
+    catchpa,
+    Date,
+    IMCE,
+    WYSIWYG
+    CKEditor,
+    jQuery Update
+    Link,
+    ...
+    Databases:
+        mysql,
+        posgres
+
+    projects:
+        imamsadegh university
+        vesarat defa
+        fata
+        trustwatches.ir
+        trustwatches.com
+
+
+
+
+
+ Mongodb : 
+    clustering 
+    complicated collection queries with aggregate
+    watch funtions
+
+push-notifications:
+    FCM,
+    web-push,
+    CGM,
+    Apns

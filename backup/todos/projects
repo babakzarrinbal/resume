@@ -1,0 +1,116 @@
+diliviri
+    platform for ordering diffrent type of product (food, flower, booz,...);
+    landing page for ordering
+    merchant panel for each merchant
+    admin panel
+    order registration proccess by user, merchant, admin
+    driver management (hired drivers, outsource drivers)
+    notifications for users, merchant, drivers, admins
+    supervising drivers and orders
+    auto assignment of orders to drivers
+    auto multi order assignment to drivers base on limitations (time, type of vehicles,...)
+    best route calculation and complicated assignment methods
+    vehicle management (company vehicle, outsource vehicles)
+    orders live tracking
+    orders heatmaps
+  
+driver.diliviri
+    wpa app with native wrapper for driver app
+    location tracking
+    performance registering
+    single base code for all platforms
+
+supervisor.diliviri
+    wpa app for driver supervisors
+    online driver supervising (socket)
+    notification on events
+    on map live tracking
+    order supervising
+
+suadmin.diliviri
+    wpa app customized for top level managemnet
+    order status
+
+easybimeh front
+    platform for registering insurance representetives
+    custom landing page for each one (auto generate)
+    admin panel (insurance info, vouchers ,...)
+    merchant panel for each representetive
+
+routexl-client ->nodejs
+    client for using routexl routing services
+    multi account usage for routing and distance apis
+    proxy-enabled requests
+
+viseo-panel
+    upload edit video/audio
+    content managment system
+    usermanagement system
+    api managment system
+
+viseo-api
+    simple fast login guard
+    redis pub-sub for clustering
+    mongodb integration
+    mqtt message broker integration
+
+viseo-landing
+    content display
+    notifiactions
+
+wow ->laravel-vue
+    online quize
+    badge and graph for quize results
+    quize improvement techniques
+    online certificate generator
+    online essey checking
+    teacher student communication platform
+    server rendering of vue app
+
+review ->laravel-vue
+    uploading video
+    extracting audio from videos 
+    creating subtitle from audio
+    translating subtitles
+    online subtitle and translation edit
+    online video edit 
+    adding comments to videos
+    video project analysing and reviewing procedures
+
+kahtbekhat ->laravel-vue
+    uploading books (admin/teachers pdf/image/ppt)
+    extracting book pages 
+    adding video/audio/text/image  overlay to pages
+    reviewing by reviewer
+    approving by experts
+    getting available to student and teachers
+
+faststartup ->laravel-vue
+    adding template(html/css) or page link to get as template
+    online page content edit (texts/links/images/videos,...)
+    save as static page and catch for superfast get
+    addable to every laravel project
+
+crawlers ->nodejs
+    crawling youtube for videos and download
+    crawling movie sites for download
+    crawling pages for extracting templates
+    crawling review sites for media informations
+
+apanajh-> angularjs
+    fast angularjs front for apanajh socialmedia 
+    content listing 
+    like/comment/wallet ,...
+
+fata -> drupal-angularjs
+    cyberpolice.ir site 
+    create diffrent survays for users and personels
+    complicated ui annimations svg/gifs and draw on canvas
+
+trustwatches -> drupal
+    online shop 
+
+emamsadegh -> drupal
+    official site for emam sadegh university
+
+multiple goverment official sites to broadcast news and informations

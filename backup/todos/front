@@ -1,0 +1,58 @@
+Vuejs:
+    cli
+    component lif-cycle     (deep understanding )
+    routes                  (meta, onroutechange, child, ...)
+    lazyloading             (using webpack)
+    transitions             
+    computed                
+    watch                  
+    events
+    props
+    vuex
+
+
+Angularjs:
+    ui-router
+    lazyloading
+    Factory
+    services
+    gulp integration (for production and develop env)
+    watches
+    directives
+    ng-animations
+    ...
+
+Angular:
+    cli
+    routes
+    lazyloading
+    child modules
+    components
+    watch
+    animations
+    events
+
+
+DOM:
+    webrtc
+    getmedia
+    sensors
+    localstorag
+
+stylesheet:
+    animations,
+    transitions,
+    flexboxs,
+    calculations,
+    SASS functionalities
+    LESS functionalities
+
+JQUERY: 
+    animations
+    shadow DOM
+    DOM manipulation
+
+Bootstrap:
+    grids
+    forminputs
+    btn

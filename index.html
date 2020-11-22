@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <script>
+      window.changepdf = function changepdf() {
+        console.log(document.getElementById("frame").src);
+        var frame = document.getElementById("frame");
+        var btn = document.getElementById("btn");
+        if (frame.src.match(/.*Coverletter.*/)) {
+          frame.src = "./resume.pdf";
+          btn.innerHTML = "Coverletter";
+        } else {
+          frame.src = "./Coverletter.pdf";
+          btn.innerHTML = "Resume";
+        }
+      };
+    </script>
+  </head>
+  <body style="margin:0;padding:0">
+    <button
+      id="btn"
+      style="position: absolute;top: 10px;left: 150px;background: #018e00;border: none;color: white;padding: 5px 10px;"
+      onclick="changepdf()"
+    >
+      coverletter
+    </button>
+    <iframe
+      id="frame"
+      src="./resume.pdf"
+      style="width: 100%;height: 100vh;/* min-height: 100%; */border: none;margin: 0;padding: 0;"
+      frameborder="0"
+    ></iframe>
+  </body>
+</html>
