@@ -7,9 +7,9 @@
         var btn = document.getElementById("btn");
         if (frame.src.match(/.*Coverletter.*/)) {
           frame.src = "./resume.pdf";
-          btn.innerHTML = "Coverletter";
+          btn.innerHTML = "resume";
         } else {
-          frame.src = "./Coverletter.pdf";
+          frame.src = "./resume.pdf";
           btn.innerHTML = "Resume";
         }
       };
@@ -21,7 +21,7 @@
       style="position: absolute;top: 10px;left: 150px;background: #018e00;border: none;color: white;padding: 5px 10px;"
       onclick="changepdf()"
     >
-      coverletter
+      resume
     </button>
     <iframe
       id="frame"
